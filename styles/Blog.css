@@ -2,5 +2,8 @@ div{
     color: aqua;
     background-color: burlywood;
     padding: 15px;
-    margin-top: auto;
+    /* margin-top: auto; */
+    margin-top: 15px;
+    text-align: center;
+    text-decoration: none;
 }
